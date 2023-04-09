@@ -1,0 +1,10 @@
+Background
+London is the capital and largest city of England and the United Kingdom. London exerts a considerable impact upon the arts, commerce, education, entertainment, fashion, finance, health-care, media, professional services, research and development, tourism and transportation. It is the most-visited city as measured by international arrivals and has the busiest city airport system as measured by passenger traffic.
+
+Problem
+As London is one of the most important cities in the world so the security of the city is most important. There are always some parts of the city that have more crime rates than any other part. So the problem is with people who migrate from different parts of the world for work and business. They are pretty much conscious about the selection of the area for residence from a safety point of view. This analysis will also help local police to focus and control the crimes in those areas which become the major centers for criminal activities.
+
+Solution
+This project aims to select the safest borough in London based on the total crimes, explore the neighborhoods of that borough to find the 10 most common venues in each neighborhood and finally cluster the neighborhoods using k-mean clustering.
+
+This report will be targeted to people who are looking to relocate to London. In order to finalize a neighborhood to hunt for an apartment, safety is considered as a top concern when moving to a new place. If you don’t feel safe in your own home, you’re not going to be able to enjoy living there. The crime statistics will provide an insight into this issue.
